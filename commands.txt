@@ -13,3 +13,5 @@ git status [Shows list of untracked files]
 git add -A [To add all untracked files to staging area]
 
 git commit -m "commit message" [Added files to local storage]
+
+git branch [list all branches] ->if it is green color we are using that branch
